@@ -3,7 +3,7 @@ jQuery Puzzle
 
 ### Demo
 
-[Demo here](http://jsfiddle.net/alanhogan/tRmkx/).
+**[Demo here](http://jsfiddle.net/alanhogan/tRmkx/)**.
 
 ### Overview & Usage
 
@@ -40,12 +40,12 @@ Differences from version available on Ben's site as of August 30, 2011:
 
 - Fixed syntax error
 - Omitted styles applied to the container
-- Every initial (shuffled) position is solvable. (If you "picked up" the pieces and placed them randomly, there is a [50% chance the puzzle would be solvable](http://mathworld.wolfram.com/15Puzzle.html).)
 
 ### Strengths
 
 - Unlike similar plugins, you can move whole rows/columns of pieces with one click.
 - Requires no more than one image.
+- Every initial (shuffled) position is solvable. (If you "picked up" the pieces and placed them randomly, there is a [50% chance the puzzle would be solvable](http://mathworld.wolfram.com/15Puzzle.html).)
 
 ### Room for Improvement
 
