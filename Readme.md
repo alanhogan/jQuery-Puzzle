@@ -7,7 +7,7 @@ jQuery Puzzle
 
 ### Overview & Usage
 
-Essentially the same sliding puzzle game extension that [Ben Nadel](http://www.bennadel.com/blog/1009-jQuery-Demo-Creating-A-Sliding-Image-Puzzle-Plug-In.htm) created back in 2007. Obviously it belongs on GitHub!
+Essentially the same sliding puzzle game jQuery plugin that [Ben Nadel created][1] back in 2007. Obviously it belongs on GitHub!
 
 Usage is simple. You only need one image from which the puzzle will be created.
 
