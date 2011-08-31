@@ -40,6 +40,7 @@ Differences from version available on Ben's site as of August 30, 2011:
 
 - Fixed syntax error
 - Omitted styles applied to the container
+- Every initial (shuffled) position is solvable. (If you "picked up" the pieces and placed them randomly, there is a [50% chance the puzzle would be solvable](http://mathworld.wolfram.com/15Puzzle.html).)
 
 ### Strengths
 
