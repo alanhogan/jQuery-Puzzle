@@ -96,7 +96,10 @@ jQuery.fn.puzzle = function( intUserSize ){
 										),
 									position: "absolute",
 									top: ((intSize * intRowIndex) + "px"),
-									left: ((intSize * intColIndex) + "px")
+									left: ((intSize * intColIndex) + "px"),
+									mozUserSelect: 'none',
+									webkitUserSelect: 'none',
+									userSelect: 'none'
 								}
 								)
 							.width( intSize )
