@@ -51,6 +51,7 @@ Differences from version available on Ben's site as of August 30, 2011:
 
 - Arrow key support would be nice
 - Drag & Drop and/or touch event support would be great
+- Currently there is no way to do anything when someone wins
 
 [1]: http://www.bennadel.com/blog/1009-jQuery-Demo-Creating-A-Sliding-Image-Puzzle-Plug-In.htm
 
